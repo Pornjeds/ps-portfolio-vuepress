@@ -6,21 +6,15 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "LinkedIn",
-      "link": "https://www.linkedin.com/in/pornjeds/",
-      "position": "left",
-      "external": true
-    },
-    {
       "text": "Works",
       "link": "/",
       "position": "left",
       "external": false
     },
     {
-      "text": "Say hi!",
-      "link": "mailto:sayhi@mydomain.com",
-      "position": "right",
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/pornjeds/",
+      "position": "left",
       "external": true
     },
     {
@@ -28,6 +22,12 @@
       "link": "/journal/",
       "position": "right",
       "external": false
+    },
+    {
+      "text": "Say hi!",
+      "link": "mailto:sayhi@mydomain.com",
+      "position": "right",
+      "external": true
     }
   ]
 }
